@@ -1,0 +1,593 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "price": 2249.25,
+      "category": "Clothing",
+      "title": "Cotton T-Shirt",
+      "description": "A comfortable cotton t-shirt.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      ],
+      "alt": "A cotton t-shirt",
+      "options": {
+        "colors": ["red", "blue", "green"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "price": 3749.25,
+      "category": "Clothing",
+      "title": "Denim Jeans",
+      "description": "Stylish denim jeans.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg"
+      ],
+      "alt": "Denim jeans",
+      "options": {
+        "colors": ["blue", "black"],
+        "sizes": ["28", "30", "32", "34", "36"]
+      },
+      "created_at": "2023-01-02T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "price": 2999.25,
+      "category": "Clothing",
+      "title": "Cozy Hoodie",
+      "description": "A warm and cozy hoodie.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg"
+      ],
+      "alt": "A cozy hoodie",
+      "options": {
+        "colors": ["black", "grey", "white"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-03T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Summer Shorts",
+      "description": "Comfortable summer shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Summer shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-04T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Casual Shorts",
+      "description": "Comfortable casual shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Casual shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-05T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Beach Shorts",
+      "description": "Comfortable beach shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Beach shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-06T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Sport Shorts",
+      "description": "Comfortable sport shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Sport shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-07T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Running Shorts",
+      "description": "Comfortable running shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Running shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-08T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Gym Shorts",
+      "description": "Comfortable gym shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Gym shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-09T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Training Shorts",
+      "description": "Comfortable training shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Training shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-10T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Yoga Shorts",
+      "description": "Comfortable yoga shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Yoga shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-11T10:00:00Z"
+    },
+    {
+      "id": "12",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Hiking Shorts",
+      "description": "Comfortable hiking shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Hiking shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-12T10:00:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Mobiles",
+      "image": "https://cdn-icons-png.flaticon.com/128/1551/1551230.png",
+      "alt": "mobiles"
+    },
+    {
+      "id": "2",
+      "name": "Wearables",
+      "image": "https://cdn-icons-png.flaticon.com/128/4305/4305522.png",
+      "alt": "wearables"
+    },
+    {
+      "id": "3",
+      "name": "Games",
+      "image": "https://cdn-icons-png.flaticon.com/512/5448/5448052.png",
+      "alt": "games"
+    },
+    {
+      "id": "4",
+      "name": "Accessories",
+      "image": "https://cdn-icons-png.flaticon.com/128/936/936628.png",
+      "alt": "accessories"
+    },
+    {
+      "id": "5",
+      "name": "Clothing",
+      "image": "https://cdn-icons-png.flaticon.com/128/863/863684.png",
+      "alt": "clothing"
+    },
+    {
+      "id": "6",
+      "name": "Footwear",
+      "image": "https://cdn-icons-png.flaticon.com/128/3113/3113245.png",
+      "alt": "footwear"
+    },
+    {
+      "id": "7",
+      "name": "Home",
+      "image": "https://cdn-icons-png.flaticon.com/128/1946/1946488.png",
+      "alt": "home"
+    },
+    {
+      "id": "8",
+      "name": "Appliances",
+      "image": "https://cdn-icons-png.flaticon.com/128/10982/10982533.png",
+      "alt": "appliances"
+    },
+    {
+      "id": "9",
+      "name": "Furniture",
+      "image": "https://cdn-icons-png.flaticon.com/128/1888/1888928.png",
+      "alt": "furniture"
+    }
+  ],
+  "bestselling": [
+    {
+      "id": "1",
+      "price": 2249.25,
+      "category": "Clothing",
+      "title": "Cotton T-Shirt",
+      "description": "A comfortable cotton t-shirt.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      ],
+      "alt": "A cotton t-shirt",
+      "options": {
+        "colors": ["red", "blue", "green"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "price": 3749.25,
+      "category": "Clothing",
+      "title": "Denim Jeans",
+      "description": "Stylish denim jeans.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg"
+      ],
+      "alt": "Denim jeans",
+      "options": {
+        "colors": ["blue", "black"],
+        "sizes": ["28", "30", "32", "34", "36"]
+      },
+      "created_at": "2023-01-02T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "price": 2999.25,
+      "category": "Clothing",
+      "title": "Cozy Hoodie",
+      "description": "A warm and cozy hoodie.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg"
+      ],
+      "alt": "A cozy hoodie",
+      "options": {
+        "colors": ["black", "grey", "white"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-03T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Summer Shorts",
+      "description": "Comfortable summer shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Summer shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-04T10:00:00Z"
+    }
+  ],
+  "featuredproducts": [
+    {
+      "id": "1",
+      "price": 2249.25,
+      "category": "Clothing",
+      "title": "Cotton T-Shirt",
+      "description": "A comfortable cotton t-shirt.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      ],
+      "alt": "A cotton t-shirt",
+      "options": {
+        "colors": ["red", "blue", "green"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "price": 3749.25,
+      "category": "Clothing",
+      "title": "Denim Jeans",
+      "description": "Stylish denim jeans.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg"
+      ],
+      "alt": "Denim jeans",
+      "options": {
+        "colors": ["blue", "black"],
+        "sizes": ["28", "30", "32", "34", "36"]
+      },
+      "created_at": "2023-01-02T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "price": 2999.25,
+      "category": "Clothing",
+      "title": "Cozy Hoodie",
+      "description": "A warm and cozy hoodie.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg"
+      ],
+      "alt": "A cozy hoodie",
+      "options": {
+        "colors": ["black", "grey", "white"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-03T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Summer Shorts",
+      "description": "Comfortable summer shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Summer shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-04T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Casual Shorts",
+      "description": "Comfortable casual shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Casual shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-05T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Beach Shorts",
+      "description": "Comfortable beach shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Beach shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-06T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Sport Shorts",
+      "description": "Comfortable sport shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Sport shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-07T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Running Shorts",
+      "description": "Comfortable running shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Running shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-08T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Gym Shorts",
+      "description": "Comfortable gym shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Gym shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-09T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "price": 1874.25,
+      "category": "Clothing",
+      "title": "Training Shorts",
+      "description": "Comfortable training shorts.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-04.jpg"
+      ],
+      "alt": "Training shorts",
+      "options": {
+        "colors": ["blue", "khaki", "black"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-10T10:00:00Z"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "1",
+      "price": 2249.25,
+      "category": "Clothing",
+      "title": "Cotton T-Shirt",
+      "description": "A comfortable cotton t-shirt.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg"
+      ],
+      "alt": "A cotton t-shirt",
+      "options": {
+        "colors": ["red", "blue", "green"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "price": 3749.25,
+      "category": "Clothing",
+      "title": "Denim Jeans",
+      "description": "Stylish denim jeans.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg"
+      ],
+      "alt": "Denim jeans",
+      "options": {
+        "colors": ["blue", "black"],
+        "sizes": ["28", "30", "32", "34", "36"]
+      },
+      "created_at": "2023-01-02T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "price": 2999.25,
+      "category": "Clothing",
+      "title": "Cozy Hoodie",
+      "description": "A warm and cozy hoodie.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg"
+      ],
+      "alt": "A cozy hoodie",
+      "options": {
+        "colors": ["black", "grey", "white"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-01T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "price": 2999.25,
+      "category": "Clothing",
+      "title": "Cozy Hoodie",
+      "description": "A warm and cozy hoodie.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg"
+      ],
+      "alt": "A cozy hoodie",
+      "options": {
+        "colors": ["black", "grey", "white"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-01T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "price": 2999.25,
+      "category": "Clothing",
+      "title": "Cozy Hoodie",
+      "description": "A warm and cozy hoodie.",
+      "images": [
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg",
+        "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-03.jpg"
+      ],
+      "alt": "A cozy hoodie",
+      "options": {
+        "colors": ["black", "grey", "white"],
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "created_at": "2023-01-01T10:00:00Z"
+    }
+  ]
+}
