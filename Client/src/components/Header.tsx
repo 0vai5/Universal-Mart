@@ -3,21 +3,13 @@ import Image from "next/image";
 import NavItems from "./NavItems";
 import MobileNav from "./MobileNav";
 import UserDropdown from "./UserDropdown";
-import {
-  Camera,
-  Gamepad,
-  Headphones,
-  Heart,
-  ShoppingBag,
-  Smartphone,
-  Watch,
-} from "lucide-react";
+import { ShoppingCart } from "lucide-react";
 import Link from "next/link";
 import { Badge } from "./ui/badge";
 import { Button } from "./ui/button";
 
 const Header = () => {
-  const user = false;
+  const user = true;
   return (
     <header className="header p-5">
       <div className="">
@@ -42,7 +34,7 @@ const Header = () => {
             0
           </Badge>
           <Link href="/cart">
-            <ShoppingBag size={24} className="cursor-pointer" />
+            <ShoppingCart size={24} className="cursor-pointer" />
           </Link>
         </div>
       </div>
